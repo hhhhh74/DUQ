@@ -67,3 +67,4 @@ My email can be found on my GitHub profile, my [website](https://joo.st) and the
 
 ![Deep Ensembles vs DUQ](de_vs_duq.png)
 # czzr.github.com
+# temperature-scaling
